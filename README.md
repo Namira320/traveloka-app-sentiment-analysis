@@ -4,6 +4,12 @@ This repository contains a complete pipeline for scraping user reviews of the Tr
 
 ---
 
+> 📜 **Certification Context:** This project was developed as the project submission for the **Deep Learning Fundamentals** class in the **Dicoding Asah** program.
+> 
+> [![Dicoding Certificate - Page 1](certificate/certificate-page1.png)](Deep-Learning-Fundamentals.pdf)
+
+---
+
 ## 🚀 Project Overview
 
 The project follows a standard Natural Language Processing (NLP) and Machine Learning workflow:
